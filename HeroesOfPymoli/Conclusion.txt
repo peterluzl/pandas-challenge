@@ -1,0 +1,8 @@
+1 Observation:
+People who are the age of 20-24 accounts for the majority of the player population.
+
+2 Observation:
+Male will make more purchases however, female tend to spend more on average. 
+
+3 Observation:
+People who are the age of 20-24 not only represent the majority of the players, they also spend the most on average among all age groups. 
